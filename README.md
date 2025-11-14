@@ -25,7 +25,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeshsharma98&label=Profile%20views&color=0e75b6&style=flat)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajeshsharma98&theme=radical&hide_border=true)  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rajeshsharma98&theme=onedark)
 ---
